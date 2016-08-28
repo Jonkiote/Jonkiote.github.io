@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jonathan Quemuel",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://Jonkiote.github.io/images/Jon1.jpg",
+    "email": "jkq@hawaii.edu",
+    "phone": "808-636-1746",
+    "website": "https://Jonkiote.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the College of Engineering at the University of Hawaii. I expect to graduate in Fall, 2016.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1420 Gregory St.",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Jonkiote",
+        "url": "http://github.com/Jonkiote"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Jonathan Quemuel",
+        "url": "https://www.linkedin.com/in/jonathan-quemuel-076a98a5"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Robotics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
