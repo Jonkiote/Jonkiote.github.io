@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/hawk.jpg
-title: Vacay
+title: QuadCopter
 permalink: projects/vacay
-date: 2015
+date: 2016
 labels:
   - Javascript
   - Meteor
