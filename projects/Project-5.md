@@ -6,19 +6,16 @@ title: QuadCopter
 permalink: projects/vacay
 date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - C++
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Robotics
+summary: An unmanned ariel system which uses opensource "ardupilot" to transfer data securely.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Pixhawk-Inforgraphic2.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Aerial drones can be handy tools to have. Whether their purpose be taking that perfect in-air shot for a wedding, transporting goods, or monitoring hazardous enviornments; drones are quickly becoming tech favorites among owners. However, a problem with drones lies within the communication between the UAV and the controller. Data transfer between these two modules is not secure, and so this project aims to use encryption algorithms in order to secure the link between UAV and controller. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+For this project my team used [Ardupilot](https://github.com/ArduPilot/ardupilot) software on a [pixhawk](https://pixhawk.org/) unit to simulate a typical flight. Currently, we are working on implementing the encryption algorithms to encrypt communication to the pixhawk. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This is an ongoing project, and while incomplete, the progress I have made so far in getting the controller and the pixhawk to communicate is nothing to be ashamed of. Through this project, I gained proficiency operating in a Linux environment, I got experience using git, and I learned about data excryption. 
