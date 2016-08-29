@@ -18,4 +18,4 @@ Aerial drones can be handy tools to have. Whether their purpose be taking that p
 
 For this project my team used [Ardupilot](https://github.com/ArduPilot/ardupilot) software on a [pixhawk](https://pixhawk.org/) unit to simulate a typical flight. Currently, we are working on implementing the encryption algorithms to encrypt communication to the pixhawk. 
 
-This is an ongoing project, and while incomplete, the progress I have made so far in getting the controller and the pixhawk to communicate is nothing to be ashamed of. Through this project, I gained proficiency operating in a Linux environment, I got experience using git, and I learned about data excryption. 
+This is an ongoing project, and while incomplete, the progress I have made so far in getting the controller and the pixhawk to communicate is nothing to be ashamed of. Through this project, I gained proficiency operating in a Linux environment, I got experience using git, and I learned about data encryption. 
