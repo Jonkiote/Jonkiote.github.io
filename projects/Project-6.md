@@ -1,24 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Computer.jpg
+title: PC
+permalink: projects/pc
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A project four years in the savings!
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="/images/Capture.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Building my own computer had been a personal goal of mine ever since my old computer broke down when I was in middle school. It wasn't until I got accepted into college, however, that I actually started saving for parts.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+When I had saved up about $1000, I was ready to start looking for parts. A lot needs to be considered when picking these parts, as I would eventually learn. Things such as the manufacturer, the compatability with the motherboard/power supply/case, etc. can all affect whether the final product will run or not. Needless to say, I spent days googling products, watching youtube videos, and asking around forums in order to come up with a definitive parts list. It was time well spent, because as soon as the parts came in, I jumped straight in and started putting everything in place. Everything went smoothly, all things considered, and I was pleased to see it boot up for the first time.
