@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ..images/computer.jpg
+image: images/hawk.jpg
 title: PC
 permalink: projects/pc
 date: 2015
