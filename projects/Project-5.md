@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hawk.jpg
 title: QuadCopter
-permalink: projects/vacay
+permalink: projects/quadcopter
 date: 2016
 labels:
   - C++
