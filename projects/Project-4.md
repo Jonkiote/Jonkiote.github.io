@@ -13,7 +13,7 @@ summary: My team developed a robotic mouse that successfully reached the center 
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/mm.jpg">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/mm-group.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/Gantt Chart.PNG">
 </div>
