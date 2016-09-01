@@ -8,6 +8,8 @@ labels:
   - Learning
 ---
 
+<img class="ui medium left floated rounded image" src="../images/hire.jpg">
+
 I choose Computer Engineering originally because I liked robots, gaming, and physics. It only seemed logical that CENG would delve into my interests more than any other major. What I didn’t expect, was that there would be so much programming involved. I’d heard about programming before, but was apprehensive about doing it. Little did I know, that I would come to actually like doing it in the following years.
 
 Throughout my time here at UH, I’ve created many programs ranging from text games to path finders to web pages. These are fine and all, but I have yet to make anything actually useful to society. I have yet to make that “killer app” that everyone simply must have. I have yet to receive thanks from someone for how useful they find my program..
