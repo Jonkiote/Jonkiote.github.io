@@ -11,7 +11,7 @@ labels:
 <img class="ui medium right floated rounded image" src="../images/Group_Projects.jpg">
 <H2>Big group projects always give me stress.</H2>
 
-When I work on large group projects, I always find that the most difficult part to be team cohesion. Many times team members will begin working on a project by splitting it into pieces and dividing the work. They each will be working on parts of a project and then when they put their pieces together, more often than not, the pieces won't fit! I've experienced this phenomenon many times, and it is for that reason, that I have come to appreciate a little something known as the configuration management system.
+When I work on large group projects, I always find the most difficult part to be team cohesion. Team members will usually begin working on a project by splitting it into pieces and dividing the work; the divide and conquer method. They each will be working on parts of a project and then when they try to put their "pieces" together, more often than not, the pieces won't fit! I've experienced this phenomenon many times, and it is for that reason, that I have come to appreciate a little something known as the configuration management system.
 
 <H2>What is configuration management?</H2>
 
