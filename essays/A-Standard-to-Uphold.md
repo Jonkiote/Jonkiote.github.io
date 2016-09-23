@@ -12,6 +12,9 @@ labels:
 <H2>People should be able to read code.</H2>
 
 When coding, it is always important to make readable code. Not just for your own sake, but for the others who might read your code as well. Small technicalities like alignment of braces and spacing out your code may seem insignificant as long as the code outputs correctly, but if you ever want to make changes(and you will) you may find yourself lost in the code. It gets even worse when you try to read someone else's code; someone who doesn't space out his code the way you do, someone who adds aditional "if" statements when not necessary. This is why coding standards exist, and more importantly, why utilities like ESLint exist to enforce these standards.
+```
+function test(){console.log("notice the blank line before this function?");}
+```
 
 <H2>Is using ESLint even worth it?</H2>
 
