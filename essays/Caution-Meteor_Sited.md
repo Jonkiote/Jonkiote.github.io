@@ -11,7 +11,7 @@ labels:
 <img class="ui large right floated rounded image" src="../images/elmo.jpg">
 <H2>It wiped out the dinosaurs, what would it do to software engineers?</H2>
 
-Starting the Meteor module in this software engineering course, I had some pretty high expectations. I had heard that Meteor would be an easy to follow web application framework which would reduce time spent coding. It definately helps organize and reduce code size, but Meteor is also really, really slow.
+Starting the Meteor module in this software engineering course, I had some pretty high expectations. I had heard that Meteor would be an easy to follow web application framework which would reduce time spent coding. It definitely helps organize and reduce code size, but Meteor is also really, really slow.
 
 <H2>How slow is it..?</H2>
 
