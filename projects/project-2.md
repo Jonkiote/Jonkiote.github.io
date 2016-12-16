@@ -10,7 +10,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A web application for storing information on various plants around UH Manoa that my team developed in ICS 314.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/letumgrow.PNG">
