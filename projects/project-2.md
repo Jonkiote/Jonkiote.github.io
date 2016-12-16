@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/letumgrow-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/letumgrow-square.PNG
+title: LetUmGrow
+permalink: projects/LetUmGrow
+date: 2016
 labels:
   - Javascript
   - Meteor
