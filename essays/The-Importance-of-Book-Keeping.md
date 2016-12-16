@@ -15,7 +15,7 @@ When I work on large group projects, I always find the most difficult part to be
 
 <H2>What is configuration management?</H2>
 
-Configuration management is the control and management of all configuration elements relevant to a system. For example, when running experiments, it is important that the results of the experiment can be reproduced. In order for this to happen, the environment, the equipment, and sometimes even the people performing them must be the same(or extremely close). This is, in essence, what configuration management is all about. If an experiment or group project has proper configuration management; all test results and errors should be repeatable by any members of the group because their set-up and configuration states were saved and documented with every change.
+Configuration management is the control and management of all configuration elements relevant to a system. For example, when running experiments, it is important that the results of the experiment can be reproduced. In order for this to happen, the environment, the equipment, and sometimes even the people performing them must be the same(or extremely close). This is, in essence, what configuration management is all about. If an experiment or group project has proper configuration management; all test results and errors should be repeatable by any members of the group because their setup and configuration states were saved and documented with every change.
 
 <H2>Do software engineers use configuration management?</H2>
 
