@@ -56,7 +56,16 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Python",
+        "Javascript",
+        "Semantic UI",
+        "Meteor",
+        "VHDL",
+        "Verilog",
+        "MATLAB",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -64,9 +73,16 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Ubuntu",
+        "CentOS",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "Cmake",
+        "IntelliJ",
+        "Clion",
+        "Eclipse",
+        "Vivado"
       ]
     }
   ],
@@ -77,8 +93,24 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
       "courses": [
+        "EE 211: Basic Circuit Analysis I",
+        "EE 213: Basic Circuit Analysis II",
+        "EE 260: Introduction to Digital Design",
+        "EE 296: Sophomore Design Project",
+        "EE 315: Signals and Systems Analysis",
+        "EE 323: Microelectronic Circuits",
+        "EE 324: Physical Electronics",
+        "EE 342: EE Probability and Statistics",
+        "EE 361: Digital System Design",
+        "EE 371: Engineering Electromagnetics I",
+        "EE 396: Junior Design Project",
+        "EE 468: Introduction to Operating Systems",
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 141: Discrete Mathematics I",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 314: Software Engineering I"
       ]
     }
   ],
