@@ -74,6 +74,7 @@
       "keywords": [
         "MacOS",
         "Windows",
+        "Linux",
         "Ubuntu",
         "CentOS",
         "Git/GitHub",
@@ -89,7 +90,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2016)",
+      "area": "Computer Engineering (Fall, 2016)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -97,15 +98,16 @@
         "EE 211: Basic Circuit Analysis I",
         "EE 213: Basic Circuit Analysis II",
         "EE 260: Introduction to Digital Design",
-        "EE 296: Sophomore Design Project",
         "EE 315: Signals and Systems Analysis",
         "EE 323: Microelectronic Circuits",
         "EE 324: Physical Electronics",
         "EE 342: EE Probability and Statistics",
         "EE 361: Digital System Design",
         "EE 371: Engineering Electromagnetics I",
-        "EE 396: Junior Design Project",
+        "EE 406: Intoduction to Computer Network and Security",
+        "EE 449: Computer Communication Networks",
         "EE 468: Introduction to Operating Systems",
+        "EE 496: Capstone Design Project",
         "ICS 111: Introduction to Computer Science I",
         "ICS 141: Discrete Mathematics I",
         "ICS 211: Introduction to Computer Science II",
@@ -123,8 +125,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Member, IEEE Student Branch, 2014-Present",
-        "Member, ITMA, 2013"
+        "Member, IEEE Student Branch, 2014-2016",
+        "Member, ITMA, 2013",
+        "Member, Leo CLub, 2010"
       ]
     }
   ],
@@ -134,6 +137,12 @@
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won eighth place in 2015.  See my portfolio site for more details."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2016",
+      "awarder": "University of Hawaii at Manoa College of Engineering",
+      "summary": "I achieved a semester GPA of 3.5 or higher."
     }
   ],
   "references": [
